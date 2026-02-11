@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Marco%20Birkedahl%20Jørgensen&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Archaeology%20%7C%20GIS%20%7C%20Conservation&descAlignY=55&descSize=20" width="100%" />
 
-### 🌍 *Exploring the Past, Understanding the Present, Protecting the Future* 🐋
+### 🌍 *Exploring the Past, Understanding the Present - Protecting the Future* 
 
 <p align="center">
   <a href="https://marcojorgensen.com/"><img src="https://img.shields.io/badge/🌐_Website-marcojorgensen.com-FF6B6B?style=for-the-badge&logoColor=white" /></a>
