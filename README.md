@@ -1,7 +1,7 @@
-# Marco Birkedahl Jørgensen
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Marco%20Birkedahl%20J%C3%B8rgensen&fontSize=50&animation=fadeIn&fontColor=fff&desc=Archaeology%20%20GIS%20%20Conservation&descAlignY=55&descSize=20" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Archaeologist+%26+Developer;Passionate+about+GIS+and+Conservation;Building+Tools+for+the+Past" alt="Typing SVG" />
 </p>
 
 ## 🗺️ About Me
@@ -9,7 +9,7 @@
 I am an **Archaeology Student** from Denmark, specializing in the intersection of ancient human movement and modern computational technology. My work involves developing GIS tools to better understand how humans experienced and navigated past landscapes.
 
 - 🔭 **Archaeology**: Focused on landscape phenomenology and spatial analysis.
-- 💻 **GIS & Tech**: Python-based plugin development for QGIS and ArcGIS.
+- 💻 **GIS & Tech**: Python-based plugin development for QGIS.
 - 🐋 **Conservation**: Founder of [BelugaGame.org](https://belugagame.org/), a nonprofit supporting arctic whale conservation.
 
 ---
@@ -45,8 +45,6 @@ My research bridges the gap between traditional archaeology and digital spatial 
 <p align="center">
   <!-- GIS -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=esri&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" />
   <br />
   <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,8 +55,6 @@ My research bridges the gap between traditional archaeology and digital spatial 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
@@ -69,6 +65,8 @@ My research bridges the gap between traditional archaeology and digital spatial 
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ03rgensen&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoJ03rgensen&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
