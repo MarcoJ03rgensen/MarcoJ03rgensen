@@ -1,20 +1,20 @@
-#  Marco Birkedahl J�rgensen
+# Marco Birkedahl Jørgensen
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Marco%20Birkedahl%20J�rgensen&fontSize=50&animation=fadeIn&fontColor=fff&desc=Archaeology%20%20GIS%20%20Conservation&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Marco%20Birkedahl%20J%C3%B8rgensen&fontSize=50&animation=fadeIn&fontColor=fff&desc=Archaeology%20%20GIS%20%20Conservation&descAlignY=55&descSize=20" width="100%" />
 </p>
 
-##  About Me
+## 🗺️ About Me
 
 I am an **Archaeology Student** from Denmark, specializing in the intersection of ancient human movement and modern computational technology. My work involves developing GIS tools to better understand how humans experienced and navigated past landscapes.
 
--  **Archaeology**: Focused on landscape phenomenology and spatial analysis.
--  **GIS & Tech**: Python-based plugin development for QGIS and ArcGIS.
--  **Conservation**: Founder of [BelugaGame.org](https://belugagame.org/), a nonprofit supporting arctic whale conservation.
+- 🔭 **Archaeology**: Focused on landscape phenomenology and spatial analysis.
+- 💻 **GIS & Tech**: Python-based plugin development for QGIS and ArcGIS.
+- 🐋 **Conservation**: Founder of [BelugaGame.org](https://belugagame.org/), a nonprofit supporting arctic whale conservation.
 
 ---
 
-##  Archaeological Research
+## 🏛️ Archaeological Research
 
 My research bridges the gap between traditional archaeology and digital spatial science.
 
@@ -30,43 +30,59 @@ My research bridges the gap between traditional archaeology and digital spatial 
 
 ---
 
-##  BelugaGame.org
+## 🐋 BelugaGame.org
 
 **[BelugaGame.org](https://belugagame.org/)** is my nonprofit project that uses gaming to fund and raise awareness for **Beluga Whale conservation**.
 
--  **The Game**: A multilingual word puzzle (EN, DA, ES, FR, RU).
--  **The Mission**: Supporting endangered beluga populations through education and direct support.
--  **Support**: Play to learn, and share to help!
+- 🎮 **The Game**: A multilingual word puzzle (EN, DA, ES, FR, RU).
+- 🌍 **The Mission**: Supporting endangered beluga populations through education and direct support.
+- 🤝 **Support**: Play to learn, and share to help!
 
 ---
 
-##  Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **GIS** | QGIS, ArcGIS Pro, GeoPandas, Rasterio |
-| **Programming** | Python, JavaScript (ES6+), HTML5, CSS3 |
-| **Tools** | Git, VS Code, Jupyter, LaTeX |
-| **Science** | Spatial Statistics, DEM Processing, Acoustic Modeling |
+<p align="center">
+  <!-- GIS -->
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" />
+  <br />
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 ---
 
-##  GitHub Performance
+## 📈 GitHub Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ03rgensen&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
-##  Let's Connect
+## 📬 Let's Connect
 
-<p align="left">
-<a href="https://marcojorgensen.com/"><img src="https://img.shields.io/badge/Website-marcojorgensen.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/marcoj03rgensen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://bsky.app/profile/marcoj03rgensen.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Follow-1185FE?style=flat-square&logo=bluesky&logoColor=white" /></a>
-<a href="https://www.threads.com/@marco.j03rgensen"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=flat-square&logo=threads&logoColor=white" /></a>
+<p align="center">
+  <a href="https://marcojorgensen.com/"><img src="https://img.shields.io/badge/Website-marcojorgensen.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marcoj03rgensen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/marcoj03rgensen.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Follow-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.threads.com/@marco.j03rgensen"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
 </p>
 
 ---
