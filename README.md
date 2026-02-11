@@ -62,11 +62,11 @@ My research bridges the gap between traditional archaeology and digital spatial 
 ## 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=dark&hide_border=true" height="150" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ03rgensen&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ03rgensen&layout=compact&theme=dark&hide_border=true" height="150" />
   <br />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=MarcoJ03rgensen&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=MarcoJ03rgensen&theme=dark&hide_border=true" height="150" />
 </div>
 
 ---
