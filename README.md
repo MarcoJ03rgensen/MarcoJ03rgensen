@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Marco%20Birkedahl%20J%C3%B8rgensen&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Archaeologist+%26+Developer;Passionate+about+GIS+and+Conservation;Building+Tools+for+the+Past" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Archaeologist+%26+Developer;Passionate+about+GIS+and+Conservation;Building+Tools+for+the+Past" alt="Typing SVG" />
 </p>
 
 ## 🗺️ About Me
@@ -62,7 +62,7 @@ My research bridges the gap between traditional archaeology and digital spatial 
 ## 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoJ03rgensen&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ03rgensen&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   <br />
@@ -86,6 +86,6 @@ My research bridges the gap between traditional archaeology and digital spatial 
 ---
 
 <p align="center">
-  <i>"Combining ancient wisdom with modern technology to protect our past and future."</i><br>
+  <i></i><br>
   <img src="https://komarev.com/ghpvc/?username=MarcoJ03rgensen&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
