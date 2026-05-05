@@ -10,8 +10,6 @@ I am an **Archaeology Student** from Denmark, specializing in the intersection o
 
 - 🔭 **Archaeology**: Focused on landscape phenomenology and spatial analysis.
 - 💻 **GIS & Tech**: Python-based plugin development for QGIS.
-- 🐋 **Conservation**: Founder of [BelugaGame.org](https://belugagame.org/), a nonprofit supporting arctic whale conservation.
-
 ---
 
 ## 🏛️ Archaeological Research
@@ -27,18 +25,6 @@ My research bridges the gap between traditional archaeology and digital spatial 
 - **[Multi-Layer Cost Surface Generator](https://marcojorgensen.com/projects/multi-layer-cost-surface-generator.html)**: Advanced terrain analysis tool for QGIS.
 - **[CircuitscapeQGIS](https://marcojorgensen.com/projects/circuitscape-qgis.html)**: Implementing ecological connectivity theory in archaeology.
 - **[LandscapeAcousticVST](https://marcojorgensen.com/projects/landscape-acoustic-vst.html)**: DEM-based soundscape modeling.
-
----
-
-## 🐋 BelugaGame.org
-
-**[BelugaGame.org](https://belugagame.org/)** is my nonprofit project that uses gaming to fund and raise awareness for **Beluga Whale conservation**.
-
-- 🎮 **The Game**: A multilingual word puzzle (EN, DA, ES, FR, RU).
-- 🌍 **The Mission**: Supporting endangered beluga populations through education and direct support.
-- 🤝 **Support**: Play to learn, and share to help!
-
----
 
 ## 🛠️ Tech Stack & Skills
 
